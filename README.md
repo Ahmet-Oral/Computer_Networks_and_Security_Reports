@@ -1,5 +1,5 @@
 # Computer_Networks_and_Security_Reports
-Lab and Final Reports for Computer Networks and Security class
+Lab and Final Reports for class of Computer Networks and Security
 ###### Instructor:
 Dr. Enis KARAARSLAN
 

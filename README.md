@@ -4,7 +4,6 @@ Lab and Final Reports for Computer Networks and Security class
 Dr. Enis KARAARSLAN
 
 ## Final Report - Cyber Attack Demo:
-- Cyberattack 1:
 ###### Attack Machine:
 Kali Linux, Release 2020.3
 ###### Victim Machine:
